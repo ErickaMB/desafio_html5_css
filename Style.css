@@ -1,0 +1,48 @@
+body {
+    background: white;
+    font-family: Verdana, Geneva, Tahoma;
+    max-width: 900%;
+    margin: auto;
+    text-align: center;
+    
+}
+#title, .post_content, .post_title {
+    color: #202020;
+}
+
+.photo {
+    border: solid;
+    color: white;
+    max-width:900px;
+    max-height:300px;
+      
+}
+#title{
+    text-align: center;
+    text-transform: uppercase;
+    color: #202020;
+}
+.post {
+    background: white;
+    padding: 15px 15px 15px 15px;
+    margin-left: 40px;
+    margin-right: 90px;
+}
+.post_title {
+color: #202020;
+font-size: 25px;
+}
+.post_content {
+ text-align: center;
+ text-transform: unset;
+}
+.contacts_list {
+    list-style-type: none;
+    text-align: center;
+    
+    
+}
+a {
+    text-decoration: wavy;
+    color: crimson;
+}
